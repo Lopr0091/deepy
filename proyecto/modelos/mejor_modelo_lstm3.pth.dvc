@@ -1,0 +1,5 @@
+outs:
+- md5: 055aab186ec24bc218515ff35c511288
+  size: 1001974
+  hash: md5
+  path: mejor_modelo_lstm3.pth

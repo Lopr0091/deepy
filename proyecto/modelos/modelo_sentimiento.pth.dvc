@@ -1,0 +1,5 @@
+outs:
+- md5: 26e7cdf58226d9691d3925bc7a619b84
+  size: 52621338
+  hash: md5
+  path: modelo_sentimiento.pth

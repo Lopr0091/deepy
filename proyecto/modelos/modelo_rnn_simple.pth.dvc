@@ -1,0 +1,5 @@
+outs:
+- md5: 18875c8f3ea57d4c5f77f1a3d9aed00e
+  size: 273568
+  hash: md5
+  path: modelo_rnn_simple.pth

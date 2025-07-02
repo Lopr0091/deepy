@@ -1,0 +1,5 @@
+outs:
+- md5: ff97504e7c2cca8325d2f690e1fe13ab
+  size: 67416646
+  hash: md5
+  path: mejor_modelo_lstm_palabras.pth

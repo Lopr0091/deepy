@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "name": "quijote",
+  "settings": {
+    "remote.containers.name": "quijote-dev",
+    "remote.containers.defaultExtensions": [
+      "ms-python.python",
+      "ms-toolsai.jupyter"
+    ]
+  }
+}
